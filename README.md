@@ -29,7 +29,7 @@ AtliQ hardware identified a gap in making quick, informed decisions. To address 
 ✅ Strengthened both **technical and communication skills** in a business context.  
 
 ## **Files in This Repository**  
-- **ad-hoc-requests.pdf** – Contains the **10 business questions**.  
+- **Ad-hoc-requests.pdf** – Contains the **10 business questions**.  
 - **SQL Queries/** – Folder with **SQL scripts** for data extraction.  
 - **Power BI Visualizations/** – Interactive **Power BI reports** for analysis.  
 - **Presentation/** – PowerPoint file summarizing **insights & recommendations**.  

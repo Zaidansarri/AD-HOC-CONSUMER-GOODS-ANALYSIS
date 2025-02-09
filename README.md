@@ -1,4 +1,4 @@
-# **AD-HOC-CONSUMER-GOODS-ANALYSIS**   
+# **AD-HOC CONSUMER GOODS ANALYSIS**   
 AtliQ Hardware, a leading computer hardware producer in India, aims to leverage data analytics for smarter, data-driven decision-making. To strengthen their data analytics team, they designed an SQL challenge to assess technical and analytical skills.  
 
 ## Acknowledgments

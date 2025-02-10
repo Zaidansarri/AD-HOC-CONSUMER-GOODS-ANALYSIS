@@ -24,9 +24,9 @@ AtliQ hardware identified a gap in making quick, informed decisions. To address 
 - Provided **actionable recommendations** based on the data analysis.  
 
 ## **Outcome**  
-✅ Demonstrated proficiency in **SQL querying, data visualization, and storytelling with data**.  
-✅ Translated complex data into **meaningful business insights**.  
-✅ Strengthened both **technical and communication skills** in a business context.  
+- Demonstrated proficiency in **SQL querying, data visualization, and storytelling with data**.  
+- Translated complex data into **meaningful business insights**.  
+- Strengthened both **technical and communication skills** in a business context.  
 
 ## **Files in This Repository**  
 - **Ad-hoc-requests.pdf** – Contains the **10 business questions**.  

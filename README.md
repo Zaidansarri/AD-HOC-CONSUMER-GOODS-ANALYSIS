@@ -36,8 +36,8 @@ AtliQ hardware identified a gap in making quick, informed decisions. To address 
 
 ## **How to Use This Repository**  
 ### **🔹 SQL Queries**  
-1. Navigate to the `SQL Queries` folder.  
-2. Run the SQL scripts in a **MySQL environment** to extract insights.  
+- Navigate to the `SQL Queries` folder.  
+- Run the SQL scripts in a **MySQL environment** to extract insights.  
 
 ### **🔹 Power BI Visualizations**  
 - Open the `.pbix` files in **Power BI Desktop**.  
@@ -45,7 +45,7 @@ AtliQ hardware identified a gap in making quick, informed decisions. To address 
 
 ### **🔹 Presentation**  
 - Open the `.pptx` file in **Microsoft PowerPoint**.
-- - Review the slides designed for **top-level management**.  
+- Review the slides designed for **top-level management**.  
 
 ## **About This Project**  
 This project showcases my ability to analyze data, generate actionable insights, and present them effectively—**key skills for a data analyst role**.  

@@ -49,5 +49,3 @@ AtliQ hardware identified a gap in making quick, informed decisions. To address 
 
 ## **About This Project**  
 This project showcases my ability to analyze data, generate actionable insights, and present them effectively—**key skills for a data analyst role**.  
-
----
